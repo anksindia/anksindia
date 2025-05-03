@@ -52,8 +52,8 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anksindia&show_icons=true&theme=dark" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anksindia&theme=dark" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anksindia&show_icons=true&theme=dark&cache_seconds=60" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anksindia&theme=dark&cache_seconds=60" height="180px" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## 📈 **Most Used Languages**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anksindia&layout=compact&theme=dark" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anksindia&layout=compact&theme=dark&cache_seconds=60" height="180px" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 🎯 **GitHub Contributions**
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anksindia&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anksindia&theme=dark&cache_seconds=60" />
 </p>
 
 ---
@@ -77,10 +77,11 @@
 ## 🏆 **GitHub Achievements**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anksindia&theme=dark&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anksindia&theme=dark&no-bg=true&no-frame=true&cache_seconds=60" />
 </p>
 
 ---
+
 
 ## 🚀 **Let’s Build Something Amazing Together!**
 
