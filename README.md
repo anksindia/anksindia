@@ -66,29 +66,9 @@
 
 ---
 
-## 🎯 **GitHub Contributions**
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anksindia&theme=dark&cache_seconds=60" />
-</p>
-
----
-
-## 🏆 **GitHub Achievements**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anksindia&theme=dark&no-bg=true&no-frame=true&cache_seconds=60" />
-</p>
-
----
 
 
 ## 🚀 **Let’s Build Something Amazing Together!**
 
 💬 Open to **collaborations, discussions, and contributions** in Full Stack Development, System Design, and Open Source Projects.
 
-🔗 **Follow Me:**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anksindia)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-suyal-b37789344/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AnkitSdotcom)
