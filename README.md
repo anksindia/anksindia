@@ -38,7 +38,7 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anksindia&show_icons=true&theme=dark&cache_seconds=60" height="180px" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anksindia&theme=dark&cache_seconds=60" height="180px" />
 </p>
 
