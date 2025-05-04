@@ -23,21 +23,7 @@
 📬 **Contact:** [ankitsuyal.in@gmail.com](mailto:ankitsuyal.in@gmail.com)  
 💡 **Fun Fact:** I debug faster than I cook noodles! 😄
 
----
 
-## 🌐 **Connect with Me**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankit-suyal-b37789344/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/AnkitSdotcom" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/4nkitsuy4l" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
 
 ---
 
@@ -72,3 +58,18 @@
 
 💬 Open to **collaborations, discussions, and contributions** in Full Stack Development, System Design, and Open Source Projects.
 
+---
+
+## 🌐 **Connect with Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankit-suyal-b37789344/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/AnkitSdotcom" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/4nkitsuy4l" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
