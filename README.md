@@ -69,7 +69,7 @@
   <a href="https://x.com/AnkitSdotcom" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://instagram.com/4nkitsuy4l" target="_blank">
+<!--   <a href="https://instagram.com/4nkitsuy4l" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  </a> -->
 </p>
