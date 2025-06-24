@@ -1,4 +1,4 @@
-# 💻 **Welcome to My GitHub Profile!**
+ # 💻 **Welcome to My GitHub Profile!**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&duration=3500&pause=1000&color=1b6fec&vCenter=true&width=600&height=40&lines=Hello+%F0%9F%91%8B%2C+I'm+Ankit+Suyal!;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Scalable+%26+Efficient+Web+Applications;Let's+Connect+%26+Innovate+Together!" alt="Typing SVG">
@@ -21,7 +21,9 @@
 👨‍💻 I'm a **Full Stack Developer** passionate about creating scalable, efficient, and user-centric web applications.  
 📖 **Currently exploring:** GraphQL, Advanced System Design, and Web Performance Optimization.  
 📬 **Contact:** [ankitsuyal.in@gmail.com](mailto:ankitsuyal.in@gmail.com)  
-💡 **Fun Fact:** I debug faster than I cook noodles! 😄
+💡 **Fun Fact:**In my free time, I love exploring games and learning new tech. 😄
+
+
 
 ---
 
@@ -36,6 +38,7 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anksindia&theme=dark&cache_seconds=60" height="180px" />
 </p>
 
@@ -49,26 +52,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
 
-<h3 align="center">⚡ Watch my contributions come alive ⚡</h3>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/anksindia/anksindia/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/anksindia/anksindia/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/anksindia/anksindia/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
 
 ## 🚀 **Let’s Build Something Amazing Together!**
 
@@ -85,9 +69,7 @@
   <a href="https://x.com/AnkitSdotcom" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-<!--
-  <a href="https://instagram.com/4nkitsuy4l" target="_blank">
+<!--   <a href="https://instagram.com/4nkitsuy4l" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
--->
+  </a> -->
 </p>
