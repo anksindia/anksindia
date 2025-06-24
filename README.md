@@ -21,7 +21,7 @@
 👨‍💻 I'm a **Full Stack Developer** passionate about creating scalable, efficient, and user-centric web applications.  
 📖 **Currently exploring:** GraphQL, Advanced System Design, and Web Performance Optimization.  
 📬 **Contact:** [ankitsuyal.in@gmail.com](mailto:ankitsuyal.in@gmail.com)  
-💡 **Fun Fact:**In my free time, I love exploring games and learning new tech. 😄
+💡 **Fun Fact:** In my free time, I love exploring games and learning new tech. 😄
 
 
 
