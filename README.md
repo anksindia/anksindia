@@ -23,8 +23,6 @@
 📬 **Contact:** [ankitsuyal.in@gmail.com](mailto:ankitsuyal.in@gmail.com)  
 💡 **Fun Fact:** I debug faster than I cook noodles! 😄
 
-
-
 ---
 
 ## 🛠️ **Tech Stack & Tools**
@@ -38,7 +36,6 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anksindia&theme=dark&cache_seconds=60" height="180px" />
 </p>
 
@@ -52,7 +49,26 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
 
+<h3 align="center">⚡ Watch my contributions come alive ⚡</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/anksindia/anksindia/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/anksindia/anksindia/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/anksindia/anksindia/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+---
 
 ## 🚀 **Let’s Build Something Amazing Together!**
 
@@ -69,7 +85,9 @@
   <a href="https://x.com/AnkitSdotcom" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-<!--   <a href="https://instagram.com/4nkitsuy4l" target="_blank">
+<!--
+  <a href="https://instagram.com/4nkitsuy4l" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a> -->
+  </a>
+-->
 </p>
