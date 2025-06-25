@@ -1,0 +1,43 @@
+name: Generate Snake Animation
+
+on: 
+  schedule:
+    - cron: "0 0 * * *"  # Raat ko 12 baje har din chalega
+  push:
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generate the snake animation
+      - name: Generate Snake animation
+        uses: ./  # Use local action
+        with:
+          github_user_name: anksindia  # Your username
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # Ensure the generated files exist
+      - name: Verify generated files
+        run: |
+          ls dist
+          test -f dist/github-contribution-grid-snake.svg
+          test -f dist/github-contribution-grid-snake-dark.svg
+          test -f dist/github-contribution-grid-snake.gif
+
+      # Deploy the output to a separate branch (e.g., `output`)
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
