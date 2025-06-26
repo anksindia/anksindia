@@ -8,7 +8,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&duration=3500&pause=1000&color=1b6fec&vCenter=true&width=600&height=40&lines=Hello+%F0%9F%91%8B%2C+I'm+Ankit+Suyal!;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Scalable+%26+Efficient+Web+Applications;Let's+Connect+%26+Innovate+Together!" alt="Typing SVG">
+ <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&duration=3500&pause=1000&color=1b6fec&vCenter=true&width=600&height=40&lines=Hello+%F0%9F%91%8B%2C+I'm+Ankit+Suyal!;Full+Stack+Web+Dev+Learner+%7C+Tech+Explorer;Learning+MERN+Stack%2C+Android+Dev+%26+AI%2FML;Let%27s+Build+%26+Explore+Together!" alt="Typing SVG">
+
 </div>
 
 <div align="center">
@@ -25,10 +26,15 @@
 
 ## <img src="https://media.tenor.com/8OPCLlcaQoMAAAAj/cartoon-xolo.gif" width="35" /> About Me
 
-- 👨‍💻 I’m a **Full Stack Developer** passionate about building scalable, efficient, and user-centric web applications.  
-- 📖 **Currently exploring:** GraphQL, Advanced System Design & Web Performance Optimization.  
-- 📬 **Contact:** [ankitsuyal.in@gmail.com](mailto:ankitsuyal.in@gmail.com)  
-- 💡 **Fun Fact:** I love playing games and exploring new tech in my free time! 😄
+
+
+- 👨‍💻 A passionate **Full Stack Web Development learner** with solid hands-on experience in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
+- 🚀 **Currently exploring:** Android Development (Java/Kotlin), Core Software Development concepts (DSA, OOP, System Design), and the fundamentals of AI/ML.  
+- 📚 I enjoy learning new technologies, exploring the world of machine learning, and understanding how real-world systems work under the hood — from backend APIs to intelligent systems.
+  
+- 📬 **Reach out at:** [ankitsuyal.in@gmail.com](mailto:ankitsuyal.in@gmail.com)  
+- 🎮 **Fun Fact:** Gaming helps me unwind, and diving into new tech keeps me motivated and curious!
+
 
 ---
 
