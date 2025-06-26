@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/anksindia/anksindia/output/snake.svg" alt="Snake animation" />
  
  
  # 💻 **Welcome to My GitHub Profile!**
