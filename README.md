@@ -1,5 +1,5 @@
 <!-- Snake Contribution Animation -->
-<p align="center">
+<p align="center"> 
   <img src="https://raw.githubusercontent.com/anksindia/anksindia/output/snake.svg" alt="Snake animation" />
 </p>
 
