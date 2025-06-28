@@ -41,8 +41,12 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" height="50" /> Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,graphql,prisma,postgresql,html,css,tailwind,bootstrap,firebase,docker,git,github,figma,vscode,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,bootstrap,html,css,vite,nodejs,express,graphql,prisma,mongodb,postgresql,mysql,firebase,docker,aws,vercel,netlify,nginx,git,github,gitlab,postman,figma,vscode,jest" alt="Tech Stack" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40" />
 </p>
+
 
 ---
 
