@@ -50,11 +50,11 @@
 
 ---
 
-## <img src="https://media.tenor.com/c1_NM0wDAvAAAAAj/data-datos.gif" width="50" /> GitHub Stats
+<!-- ## <img src="https://media.tenor.com/c1_NM0wDAvAAAAAj/data-datos.gif" width="50" /> GitHub Stats -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anksindia&theme=dark&cache_seconds=60" height="180px" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anksindia&theme=dark&cache_seconds=60" height="180px" /> -->
+<!-- </p> -->
 
 ---
 
