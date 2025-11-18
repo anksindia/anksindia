@@ -28,11 +28,11 @@
 
 
 
-- 👨‍💻 A passionate **Full Stack Web Development learner** with solid hands-on experience in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
-- 🚀 **Currently exploring:** Android Development (Java/Kotlin), Core Software Development concepts (DSA, OOP, System Design), and the fundamentals of AI/ML.  
+- 👨‍💻  Skilled in building full-stack applications using **MERN, Next.js, and .NET/C# with MS SQL.**  
+- 🚀 **Currently exploring:** Android Development, Core Software Development concepts (DSA, OOP, System Design), and the fundamentals of AI/ML.  
 - 📚 I enjoy learning new technologies, exploring the world of machine learning, and understanding how real-world systems work under the hood — from backend APIs to intelligent systems.
   
-- 📬 **Reach out at:** [ankitsuyal.in@gmail.com](mailto:ankitsuyal.in@gmail.com)  
+- 📬 **Reach out at:** [ankitsuyal.dev@gmail.com](mailto:ankitsuyal.dev@gmail.com)  
 - 🎮 **Fun Fact:** Gaming helps me unwind, and diving into new tech keeps me motivated and curious!
 
 
