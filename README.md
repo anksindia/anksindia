@@ -41,11 +41,26 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" height="50" /> Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,bootstrap,html,css,vite,nodejs,express,graphql,prisma,mongodb,postgresql,mysql,firebase,docker,aws,vercel,netlify,nginx,git,github,gitlab,postman,figma,vscode,jest" alt="Tech Stack" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40" />
+
+  <!-- Main Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,html,css,vite,nodejs,express,firebase,aws,vercel,git,github,gitlab,postman,figma,visualstudio,vscode" />
+
 </p>
+
+<p align="center">
+  <!-- SQL + mongodb -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/bc/MSSQL_SSMS_21_icon.png" width="50" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s" width="50" />
+</p>
+
+<p align="center">
+  <!-- Adobe Tools -->
+  <img src="https://skillicons.dev/icons?i=ps,pr" />
+</p>
+
+
+
+
 
 
 ---
